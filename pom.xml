@@ -60,4 +60,10 @@
         </plugins>
     </build>
 
+    <packaging>pom</packaging>
+    <modules>
+        <module>flink-kafka</module>
+        <module>spark-kafka</module>
+        <module>spark-kafka</module>
+    </modules>
 </project>
